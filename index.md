@@ -11,8 +11,8 @@ sections:
       background: /images/hero.png
       button: Visit Us
       url: /contact-us/
-      variant: side
-      size: md
+      variant: floating
+      size: sm
       alignment: right
       backgroundColor: gray
   - infocols:
