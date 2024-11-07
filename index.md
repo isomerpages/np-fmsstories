@@ -4,13 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: FMS
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      title: FMS GRADUATION SHOWCASE
+      background: /images/hero.png
+      button: Visit Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -22,11 +21,20 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      variant: center
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      variant: side
+      size: md
+      alignment: right
+      backgroundColor: gray
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
