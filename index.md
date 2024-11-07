@@ -14,7 +14,7 @@ sections:
       variant: floating
       size: sm
       alignment: right
-      backgroundColor: gray
+      backgroundColor: white
   - infocols:
       title: Info-columns
       subtitle: Add snippets of text in columns
