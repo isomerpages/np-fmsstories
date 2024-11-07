@@ -4,7 +4,7 @@ title: FMS GRADUATION SHOWCASE
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: FMS
+notification: ""
 sections:
   - hero:
       background: /images/hero.jpg
@@ -14,5 +14,5 @@ sections:
       size: sm
       alignment: left
       backgroundColor: gray
-      title: FMS GRADUATION SHOWCASE 2025a asdf a asdf sd sd sdddd
+      title: FMS Graduation Showcase - creativity, skills & applications
 ---
