@@ -10,8 +10,9 @@ sections:
       background: /images/hero.jpg
       button: Visit Us
       url: /contact-us/
-      variant: image
-      size: md
+      variant: floating
+      size: sm
       alignment: left
       backgroundColor: gray
+      title: FMS GRADUATION SHOWCASE 2025a asdf a asdf sd sd sdddd
 ---
