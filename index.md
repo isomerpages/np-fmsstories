@@ -4,23 +4,13 @@ title: FMS GRADUATION SHOWCASE
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: FMS
+notification: ""
 sections:
   - hero:
       title: FMS GRADUATION SHOWCASE
       background: /images/hero.png
       button: Visit Us
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
       variant: side
       size: md
       alignment: right
