@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero.png
+      background: /images/hero.jpg
       button: Visit Us
       url: /contact-us/
       variant: image
