@@ -4,7 +4,7 @@ title: FMS GRADUATION SHOWCASE
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: FMS
 sections:
   - hero:
       background: /images/hero.jpg
