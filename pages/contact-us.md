@@ -6,8 +6,8 @@ agency_name: us
 contacts:
   - content:
       - phone: +65 6797 8862
-      - email: ""
+      - email: contact_fms@np.edu.sg
       - other: ""
-    title: ""
+    title: School of Film & Media Studies
 feedback: ""
 ---
