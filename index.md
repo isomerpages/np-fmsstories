@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/hero.jpg
-      button: Visit Us
-      url: /contact-us/
+      button: Coming Soon
+      url: "#"
       variant: floating
       size: sm
       alignment: left
